@@ -1,0 +1,94 @@
+body {
+    background-image: url("jungle.jpeg");
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: helvetica;
+}
+
+h1 {
+    color: white;
+    background-color: burlywood;
+    font-size: 40px;
+    width: 240px;
+    height: 50px;
+    border: solid;
+    margin: 5px;
+    border-color: white;
+    padding: 5px;
+
+}
+
+div {
+    align-content: center;
+}
+
+#voedme,
+#spelen,
+#slapen {
+    color: white;
+    width: 200px;
+    height: 150px;
+    cursor: pointer;
+    color: forestgreen;
+    display: inline-block;
+    border: solid;
+    background: white;
+    border-color: burlywood;
+    padding: 10px;
+    margin: 8px;
+    border-width: 5px;
+}
+
+#img {
+    width: 500px;
+    margin: 0 auto;
+    display: block;
+}
+
+#imga {
+    width: 500px;
+    position: absolute;
+    height: auto;
+
+}
+
+#banaan {
+    width: 100px;
+    padding-left: 55px;
+    padding-top: 5px;
+}
+
+#bal {
+    width: 155px;
+    padding-left: 20px
+}
+
+#zzz {
+    width: 155px;
+    padding-top: 20px;
+    padding-left: 20px
+}
+
+
+#pnc2,
+#pnc1,
+#pnc3 {
+    font-size: 33px;
+    color: white;
+    font-weight: bold;
+    padding-left: 10px;
+    ;
+}
+
+table {
+    margin: 0 auto;
+    width: 90%;
+
+}
+
+td {
+    width: 30%;
+
+}
